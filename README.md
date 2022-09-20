@@ -1,1 +1,1 @@
-# TDT4136---Introduksjon-til-kunstig-intelligens
+# TDT4136-Introduksjon-til-kunstig-intelligens
